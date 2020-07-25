@@ -6,15 +6,14 @@
 
 ## Description
 
-## Development server
+* An application that enables users to add quotes,delete quotes.You can also be able to see already existing and there author and can upvote and downvote quotes.
+
+## Setup/Installation Requirements
+- Clone or download and unzip the repository from github, https://github.com/lifereze/QUOTES-IP.git
+    If you have git Use this command git clone * to clone the project.
+    Run ng serve from your terminal
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
-
-## Code scaffolding
-
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
 
 Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
 
