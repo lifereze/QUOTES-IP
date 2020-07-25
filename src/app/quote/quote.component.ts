@@ -9,8 +9,8 @@ import { Quote } from '../quote';
 })
 export class QuoteComponent implements OnInit {
   quotes = [
-    new Quote("MLK", "Martin Luther King", "Injustice anywhere is a threat to justice everywhere."),
-    new Quote("Life", "Margeret Atwood", "In the end we all become stories ")
+    new Quote("Lifereze Arnold", "Lifereze Arnold", "Follow Your heart"),
+    new Quote("Education", "CS Macharia", "Keep on learning")
   ]
     
 
